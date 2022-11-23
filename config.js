@@ -1,9 +1,9 @@
 module.exports = {
 TOKEN: "",
-ownerID: "", //write your discord user id.
-botInvite: "", //write your discord bot invite.
+ownerID: "460340091437711360", //write your discord user id.
+botInvite: "https://discord.com/api/oauth2/authorize?client_id=1045000625039102042&permissions=277129276736&scope=bot%20applications.commands", //write your discord bot invite.
 supportServer: "", //write your discord bot support server invite.
-mongodbURL: "", //write your mongodb url.
+mongodbURL: "mongodb+srv://DylonKejhu:tZzZLtzTXjGh%23L%24Jj%26S42Dd9J3G@cluster0.dpsjfsl.mongodb.net/?retryWrites=true&w=majority", //write your mongodb url.
 status: '❤️ codeshare.me',
 commandsDir: './commands', //Please don't touch
 language: "en", //en, tr, nl, pt, fr, zh_TW
@@ -42,7 +42,7 @@ cooldown: 10000000, //1000 = 1 second
 
 },
 
-maxVol: 150, //You can specify the maximum volume level.
+maxVol: 500, //You can specify the maximum volume level.
 
 }
 }
